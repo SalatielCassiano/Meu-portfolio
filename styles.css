@@ -1,0 +1,55 @@
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #3b3a3a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos do título principal no cabeçalho */
+header h1 {
+    margin: 0;
+}
+
+/* Estilos da navegação no cabeçalho */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+/* Estilos dos itens da navegação */
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Estilos dos links da navegação */
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Estilos das seções */
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Estilos dos títulos das seções */
+section h2 {
+    color: #333;
+}
+
+/* Estilos dos projetos */
+.project {
+    margin-bottom: 20px;
+}
